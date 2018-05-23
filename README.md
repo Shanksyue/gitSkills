@@ -1,2 +1,2 @@
 # gitSkills
-廖雪峰git教程
+廖雪峰git教程学习笔记
